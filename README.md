@@ -8,7 +8,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SebastianSoto18/qrcomponent-)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
