@@ -12,6 +12,10 @@ tailwind.config = {
 
             fontFamily:{
                 Outfit: ['Outfit', 'sans-serif'],
+            },
+
+            width: {
+                '85': '325px',
             }
         }
     }
